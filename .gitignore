@@ -1,0 +1,7 @@
+# build / runtime artefacts
+/var/tmp/
+*.o
+usbreset
+clear-*.pgm
+.venv/
+__pycache__/
